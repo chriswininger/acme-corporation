@@ -2,6 +2,7 @@ baseURL: https://chriswininger.github.io/acme-corporation/
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
+enableEmoji: true
 
 author:
   facebook: "https://facebook.com/example"
@@ -42,3 +43,8 @@ params:
       recentCount: 7
     - title: Contact Us
       contact: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # allows html
