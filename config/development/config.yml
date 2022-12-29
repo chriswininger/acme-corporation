@@ -1,0 +1,5 @@
+minify: false
+buildDrafts: true
+
+params:
+  DebugMenu: true

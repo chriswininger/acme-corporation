@@ -1,0 +1,6 @@
+goldmark:
+  renderer:
+    unsafe: true # allows html
+
+highlight:
+  lineNos: true
