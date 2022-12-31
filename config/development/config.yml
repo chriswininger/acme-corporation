@@ -1,5 +1,6 @@
 minify: false
 buildDrafts: true
+baseURL: https://chriswininger.github.io
 
 params:
   DebugMenu: true

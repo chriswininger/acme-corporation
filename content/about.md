@@ -19,7 +19,7 @@ We provide smiles to hundreds of happy customers.
 
 At Acme Corporation, we take pride in what we create. Our manufacturing process goes through **3 different** stages of fine workmanship to give you the best possible shapes.
 
-<img src="/acme-corporation/image/draw.jpg" style="float: right; margin: 20px" />
+<img src="/image/draw.jpg" style="float: right; margin: 20px" />
 
 
 1) **Drawing** - Our shapes are drawn with precision to 1/100 of a millimeter.
